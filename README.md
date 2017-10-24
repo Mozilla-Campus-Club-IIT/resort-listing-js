@@ -1,4 +1,5 @@
-# resort-listing-js
+![header](https://github.com/Mozilla-Campus-Club-IIT/resort-listing-js/blob/master/file/hacktoberfesth1.jpg)
+![title](https://github.com/Mozilla-Campus-Club-IIT/resort-listing-js/blob/master/file/Collection6.jpg)
 A site listing resorts including an advance search
 
 ## Screenshot
